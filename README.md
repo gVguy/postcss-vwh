@@ -1,6 +1,6 @@
-# PostCSS vwh ![github workflow status](https://github.com/gVguy/postcss-vwh/actions/workflows/node.js.yml/badge.svg)[![travis ci build status](https://travis-ci.com/gVguy/postcss-vwh.svg?branch=master)](https://travis-ci.com/gVguy/postcss-vwh)
+# PostCSS vwh ![github workflow status](https://github.com/gVguy/postcss-vwh/actions/workflows/node.js.yml/badge.svg) [![travis ci build status](https://travis-ci.com/gVguy/postcss-vwh.svg?branch=master)](https://travis-ci.com/gVguy/postcss-vwh)
 
-[PostCSS] plugin adds support for vwh unit.
+[PostCSS] plugin that adds support for *vwh* unit.
 
 [PostCSS]: https://github.com/postcss/postcss
 
@@ -26,6 +26,13 @@ div {
     }
 }
 ```
+
+## Why
+
+*vwh* can help naturally create responsive elements that retain their proportions and evenly scale with the viewport regardless of its orientation.
+
+![example of a responsive square box created with even height and width parameters of 60vwh](https://media.giphy.com/media/DGgKNNZtFaHu2kLnke/giphy.gif)
+
 
 ## Usage
 
