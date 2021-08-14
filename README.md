@@ -1,4 +1,4 @@
-# PostCSS vwh ![github workflow status](https://github.com/gVguy/postcss-vwh/actions/workflows/Node.js%20CI/badge.svg)[![travis ci build status](https://travis-ci.com/gVguy/postcss-vwh.svg?branch=master)](https://travis-ci.com/gVguy/postcss-vwh)
+# PostCSS vwh ![github workflow status](https://github.com/gVguy/postcss-vwh/actions/workflows/node.js.yml/badge.svg)[![travis ci build status](https://travis-ci.com/gVguy/postcss-vwh.svg?branch=master)](https://travis-ci.com/gVguy/postcss-vwh)
 
 [PostCSS] plugin adds support for vwh unit.
 
