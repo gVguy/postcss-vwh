@@ -68,3 +68,5 @@ module.exports = () => {
 		}
 	}
 }
+
+module.exports.postcss = true;
