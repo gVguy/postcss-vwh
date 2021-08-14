@@ -1,6 +1,6 @@
 {
   "name": "postcss-vwh",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "PostCSS plugin adds support for vwh unit",
   "keywords": [
     "postcss",
